@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;AAAA;EACE,eAAe;AACjB,C","sources":["webpack://react-typescript-scratch/./src/index.css"],"sourcesContent":["body {\r\n  color: darkblue;\r\n}"],"names":[],"sourceRoot":""}
